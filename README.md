@@ -18,7 +18,7 @@ Skills demonstrated:
 - System hardening
 
 Project Repository:
-https://github.com/renzsosa09/linux-system-hardening-lab
+https://github.com/renzososa09/linux-system-hardening-lab
 
 ---
 
@@ -32,7 +32,7 @@ Skills demonstrated:
 - Threat visibility
 
 Project Repository:
-https://github.com/renzsosa09/SIEM-Wazuh-Lab
+https://github.com/renzososa09/SIEM-Wazuh-Lab
 
 ---
 
